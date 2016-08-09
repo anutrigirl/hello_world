@@ -8,5 +8,5 @@ int main()
 	cout<<"Welcome to GitHub";
 	fun1(7);
 	fun2(17,19);
-	return 0;
+	return 1212;
 }
